@@ -4,6 +4,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     std::cout<<"No fajnie jest"<<std::endl;
     cout<<"Powinno śmigać"<<endl;
-    cout<<"A walne se commita a co mi tam"
+    cout<<"A walne se commita a co mi tam"<<endl;
+    cout<<"O a teraz Slack no no"<<endl;
     return 0;
 }
