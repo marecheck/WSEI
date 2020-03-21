@@ -6,5 +6,6 @@ int main() {
     cout<<"Powinno śmigać"<<endl;
     cout<<"A walne se commita a co mi tam"<<endl;
     cout<<"O a teraz Slack no no"<<endl;
+    cout<<"napisz cokolwiek"<<endl;
     return 0;
 }
